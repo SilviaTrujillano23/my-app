@@ -1,0 +1,7 @@
+{
+  "name": "MyApp",
+  "displayName": "MyApp",
+  "extra": {
+    "storybookEnabled": "process.env.STORYBOOK_ENABLED"
+  }
+}
